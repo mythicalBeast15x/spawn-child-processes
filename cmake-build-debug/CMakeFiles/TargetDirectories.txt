@@ -1,0 +1,3 @@
+C:/Users/ldonw/CLionProjects/spawn-child-processes/cmake-build-debug/CMakeFiles/spawn_child_processes.dir
+C:/Users/ldonw/CLionProjects/spawn-child-processes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ldonw/CLionProjects/spawn-child-processes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
